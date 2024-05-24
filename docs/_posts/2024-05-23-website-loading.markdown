@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Website loading!"
+title:  "New website loading!"
 date:   2024-05-23 14:40:24 -0400
 categories: jekyll update
 ---
